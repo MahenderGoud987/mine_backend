@@ -1,4 +1,4 @@
-# `Contributing Guidelines`  
+<!-- # `Contributing Guidelines`  
 
 This documentation contains a set of guidelines to help you during the contribution process.
 
@@ -311,7 +311,7 @@ git push -u origin <your_branch_name>
 
 7. Create a <a href="https://github.com/nixrajput/social-media-api-nodejs/pulls" title="Pull Request">Pull-Request</a>.
 
-8. Congratulations! 🎉 Sit and relax, you've made your contribution to <a href="https://github.com/nixrajput/social-media-api-nodejs" title="Social Media API - By NixLab">Social Media API - By NixLab</a>. ✌️ ❤️ 💥
+8. Congratulations! 🎉 Sit and relax, you've made your contribution to <a href="https://github.com/nixrajput/social-media-api-nodejs" title="Social Media API - By NixLab"></a>. ✌️ ❤️ 💥
 
 ## **Note**
 
@@ -330,4 +330,4 @@ You can refer to the following articles on basics of Git and Github and also con
 - [Cloning a Repo](https://help.github.com/en/desktop/contributing-to-projects/creating-an-issue-or-pull-request)  
 - [How to create a Pull Request](https://opensource.com/article/19/7/create-pull-request-github)  
 - [Getting started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)  
-- [Learn GitHub from Scratch](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLozRqGzj97d02YjR5JVqDwN2K0cAiT7VK)  
+- [Learn GitHub from Scratch](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLozRqGzj97d02YjR5JVqDwN2K0cAiT7VK)   -->
